@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Itim', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 .background {
@@ -50,11 +50,11 @@
 }
 
 .playerX {
-    color: #09C372;
+    color: #FFFFFF;
 }
 
 .playerO {
-    color: #498AFB;
+    color: #FFFFFF;
 }
 
 .controls {
@@ -80,43 +80,5 @@
 }
 
 #reset {
-    background-color: #FF3860;
+    background-color: #EED63E;
 }
-
-
-/* body {
-    font-family: "Arial", sans-serif;
-}
-
-h1 {
-  text-align: center;
-  color: #E82A2A;
-}
-
-p {
-  text-align: center;
-  color: #2A89E8;
-}
-
-section {
-    text-align: center;
-}
-
-.board {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    width: 306px;
-    margin: 50px auto;
-}
-
-.cell {
-    font-family: 'Bebas Neue', cursive;
-    width: 100px;
-    height: 100px;
-    box-shadow: 0 0 0 1px #333333;
-    border: 1px solid #333333;
-    cursor: pointer;
-
-    line-height: 100px;
-    font-size: 60px;
-} */
